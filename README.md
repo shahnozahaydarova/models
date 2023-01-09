@@ -1,2 +1,2 @@
-### Models  cars and human occupations
+### models  CharField, IntegerField, TextField, DateTimeField
 <img src="model.jpg">
